@@ -1,0 +1,13 @@
+# Python & Streamlit cache
+__pycache__/
+*.pyc
+
+# Streamlit secrets & local config
+.streamlit/
+.env
+
+# OS metadata
+.DS_Store
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
