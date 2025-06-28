@@ -27,6 +27,6 @@ This is a GenAI-powered app that explains ICD-10 medical codes in simple, struct
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/icd10_explainer.git
+git clone https://github.com/Priyadarshini1211/icd10_explainer.git
 cd icd10_explainer
 ```
